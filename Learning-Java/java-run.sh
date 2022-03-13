@@ -4,7 +4,13 @@
 
 CLASSNAME=$1
 
+# Creating MANIFEST.MF
 echo "Main-Class: $CLASSNAME"> MANIFEST.MF
+# Compile the java code
 javac -d . $CLASSNAME.java
+# Packaging .jar file
 jar cvmf MANIFEST.MF $CLASSNAME.jar $CLASSNAME.class
+# Run java code with .jar file
 java -jar $CLASSNAME.jar
+# Remove .class and .jar files
+rm -rf *.class *.jar
