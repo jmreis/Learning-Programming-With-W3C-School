@@ -3,11 +3,11 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jmreis/hacker-new-scraper?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/jmreis/hacker-new-scraper?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/jmreis/hacker-new-scraper?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jmreis/hacker-new-scraper?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jmreis/hacker-new-scraper?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/jmreis/Learning-Programming-With-W3C-School?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/jmreis/Learning-Programming-With-W3C-School?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/jmreis/Learning-Programming-With-W3C-School?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jmreis/Learning-Programming-With-W3C-School?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jmreis/Learning-Programming-With-W3C-School?style=for-the-badge)
 
 
 <img height="300" src="https://videos.w3schools.com/files/images/w3schools_logo_500_04AA6D.png" alt="w3c-school">
@@ -23,6 +23,9 @@
  * C++
  * Go
  * Java
+ * Javascript
+ * Kotlin
+ * React
 
 
 ## 🚀 Getting Repository
