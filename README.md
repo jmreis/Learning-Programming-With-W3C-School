@@ -32,7 +32,7 @@
 
 
 ```
-git clone https://github.com/jmreis/hacker-new-scraper.git
+git clone https://github.com/jmreis/Learning-Programming-With-W3C-School.git
 
 ```
 
